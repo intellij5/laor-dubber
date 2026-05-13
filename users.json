@@ -20,10 +20,10 @@
       "active": true,
       "lifetime": false,
       "endDate": "2026-05-23",
-      "passwordSalt": "d03599a0d36599058a5973595fa88b8b",
-      "passwordHash": "39429dbfa523bb37cebf78ba8ea54baae191691d596f151bf18afda63f96828c",
+      "passwordSalt": "84f7ddfc687a6110c43455ebbd2d0ba5",
+      "passwordHash": "6e74b62b0aefe14fa2dfe023642f036578b3ced213f4cb3ca50e87472cfd6e83",
       "createdAt": "2026-05-14T00:00:00.000Z",
-      "updatedAt": "2026-05-13T23:28:41.346Z"
+      "updatedAt": "2026-05-13T23:31:59.574Z"
     },
     {
       "username": "laor",
