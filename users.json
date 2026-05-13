@@ -2,28 +2,40 @@
   "schemaVersion": 2,
   "users": [
     {
-      "username": "admin@laordubber.com",
+      "username": "thengrithy",
       "displayName": "Administrator",
       "role": "admin",
       "active": true,
       "lifetime": true,
       "endDate": "",
-      "passwordSalt": "laor-admin-email-salt",
-      "passwordHash": "7cc265c43f4dd0da9062b3461c99a69937feba26c9dfc153c5a947d5fd4e498c",
+      "passwordSalt": "b82d70853a3c6fcadec7746e3b88f5dc",
+      "passwordHash": "8d9dfa8a0165f465c3675862ec4c7ec92cc56718a235a96cac42ccbd3a89081a",
       "createdAt": "2026-05-14T00:00:00.000Z",
-      "updatedAt": "2026-05-14T00:00:00.000Z"
+      "updatedAt": "2026-05-13T23:28:41.346Z"
     },
     {
       "username": "user",
-      "displayName": "Demo User",
+      "displayName": "User",
       "role": "user",
       "active": true,
       "lifetime": false,
-      "endDate": "2099-12-31",
-      "passwordSalt": "laor-user-salt",
-      "passwordHash": "9eab411a03782d811109ce59f116ea6d1542dbe8ab453dc694db43f81067a2b8",
+      "endDate": "2026-05-23",
+      "passwordSalt": "d03599a0d36599058a5973595fa88b8b",
+      "passwordHash": "39429dbfa523bb37cebf78ba8ea54baae191691d596f151bf18afda63f96828c",
       "createdAt": "2026-05-14T00:00:00.000Z",
-      "updatedAt": "2026-05-14T00:00:00.000Z"
+      "updatedAt": "2026-05-13T23:28:41.346Z"
+    },
+    {
+      "username": "laor",
+      "displayName": "Laor",
+      "role": "admin",
+      "active": true,
+      "lifetime": true,
+      "endDate": "",
+      "passwordSalt": "3865c807997b115ebb8004bb105f447d",
+      "passwordHash": "9731908b1e432412cb58eee2d43b91ccfeeff2e148e5cb8d2ad47cd4a595933c",
+      "createdAt": "2026-05-13T23:28:41.347Z",
+      "updatedAt": "2026-05-13T23:28:41.347Z"
     }
   ]
 }
