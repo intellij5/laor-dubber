@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "users": [
+    {
+      "username": "admin@laordubber.com",
+      "displayName": "Administrator",
+      "role": "admin",
+      "active": true,
+      "lifetime": true,
+      "endDate": "",
+      "passwordSalt": "laor-admin-email-salt",
+      "passwordHash": "7cc265c43f4dd0da9062b3461c99a69937feba26c9dfc153c5a947d5fd4e498c",
+      "createdAt": "2026-05-14T00:00:00.000Z",
+      "updatedAt": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "username": "user",
+      "displayName": "Demo User",
+      "role": "user",
+      "active": true,
+      "lifetime": false,
+      "endDate": "2099-12-31",
+      "passwordSalt": "laor-user-salt",
+      "passwordHash": "9eab411a03782d811109ce59f116ea6d1542dbe8ab453dc694db43f81067a2b8",
+      "createdAt": "2026-05-14T00:00:00.000Z",
+      "updatedAt": "2026-05-14T00:00:00.000Z"
+    }
+  ]
+}
